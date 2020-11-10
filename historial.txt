@@ -1,0 +1,8 @@
+Este proyecto es para pruebas de coamndos  de git
+Se trata de una pagina echa en bootstrap
+
+Editando el index
+
+Colaboradores
+
+Wendy Selene Cocoletzi Flores
